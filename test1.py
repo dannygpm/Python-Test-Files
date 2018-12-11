@@ -1,1 +1,1 @@
-user_0 = 
+print("Hello World")
